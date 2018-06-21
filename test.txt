@@ -1,4 +1,4 @@
 Add some text to test file
 New line added
 New line
-Teszt
+new line
