@@ -1,3 +1,4 @@
 Add some text to test file
 New line added
 New line
+new line
